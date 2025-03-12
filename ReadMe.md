@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making a game from scratch without an engine <br>👯 I’m looking to collaborate with API developers<br>🤝 I’m looking for help with frontend development<br>🌱 I’m currently learning full stack development<br>💬 Ask me about APIs<br>⚡ Fun fact: did you know that the first programing language is actually called <br>      Autocode 
+Just a young developer interested in learning and wanting to find the answers to his questions and curiosity, I don't know much yet, but I guess you never feel like you've learned enough and know what you need to know. So I'm just on a journey of learning until I feel like I have learned enough.
 
 
 ## 🌐 Socials:
