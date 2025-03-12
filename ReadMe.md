@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a telegram mini app<br>👯 I’m looking to collaborate with API developers<br>🤝 I’m looking for help with frontend development<br>🌱 I’m currently learning full stack development<br>💬 Ask me about APIs<br>⚡ Fun fact: did you know that the first programing language is actually called <br>      Autocode 
+🔭 I’m currently working on making a game from scratch without an engine <br>👯 I’m looking to collaborate with API developers<br>🤝 I’m looking for help with frontend development<br>🌱 I’m currently learning full stack development<br>💬 Ask me about APIs<br>⚡ Fun fact: did you know that the first programing language is actually called <br>      Autocode 
 
 
 ## 🌐 Socials:
